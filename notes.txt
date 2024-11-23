@@ -1,0 +1,4 @@
+Bin file notes:
+ Not a header based encoding it seems.
+ Always ends with 65 6E 64 1A which translates to 'end ' in ASCII
+ 
